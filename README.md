@@ -33,8 +33,8 @@
 
 ## My GitHub Stats 😎
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ghulambelajar)](https://github.com/ghulambelajar/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ghulambelajar&show_icons=true&bg_color=0F1923&title_color=FF4655&text_color=00F0FF&icon_color=FF4655&border_color=FF4655)](https://github.com/ghulambelajar/github-readme-stats)
 
-[![My github streak](https://github-readme-streak-stats.herokuapp.com/?user=ghulambelajar&theme=blue-green)](https://github.com/ghulambelajar/github-readme-streak-stats)
+[![My github streak](https://github-readme-streak-stats.herokuapp.com/?user=ghulambelajar&background=0F1923&ring=FF4655&fire=FF4655&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=FF4655&sideLabels=FF4655&dates=00F0FF&border=FF4655)](https://github.com/ghulambelajar/github-readme-streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghulambelajar)](https://github.com/ghulambelajar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghulambelajar&layout=compact&bg_color=0F1923&title_color=FF4655&text_color=00F0FF&icon_color=FF4655&border_color=FF4655)](https://github.com/ghulambelajar/github-readme-stats)
