@@ -30,6 +30,8 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Riot%20Games-D32936?style=for-the-badge&amp;logo=riotgames&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Kuro%20Games-111111?style=for-the-badge&amp;logo=gamejolt&amp;logoColor=white" />
 
 </div>
 
