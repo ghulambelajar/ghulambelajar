@@ -37,19 +37,12 @@
 
 ## 📊 My GitHub Stats 😎
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghulambelajar&show_icons=true&hide_border=true&bg_color=0F1923&title_color=FF4655&text_color=00F0FF&icon_color=FF4655)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ghulambelajar&amp;show_icons=true&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=000000&amp;text_color=333333&amp;icon_color=1572B6" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghulambelajar&layout=compact&hide_border=true&bg_color=0F1923&title_color=FF4655&text_color=00F0FF)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghulambelajar&amp;layout=compact&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=000000&amp;text_color=333333" />
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghulambelajar&hide_border=true&background=0F1923&ring=FF4655&fire=FF4655&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=FF4655&sideLabels=FF4655&dates=00F0FF)
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ghulambelajar&amp;hide_border=true&amp;background=ffffff&amp;ring=1572B6&amp;fire=E34F26&amp;currStreakNum=000000&amp;sideNums=000000&amp;currStreakLabel=1572B6&amp;sideLabels=333333&amp;dates=666666" />
-
-</div>
 
 ---
 
