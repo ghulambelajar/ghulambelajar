@@ -1,50 +1,58 @@
-# Hi, I'm Ghulam Mushthofa! 👋  
-
-<p>
-  I'm a front-end developer from Indonesia with a passion for crafting clean, interactive, and user-friendly web applications.
+<h1 align="center">Hi 👋, I'm Ghulam Mushthofa</h1>
+<p align="center">
+  Welcome to my GitHub profile! I’m an Informatics Engineering student and developer with a passion for crafting impactful web applications using the **PERN Stack**.
   <br/>
   I'm always exploring new technologies and building projects that can make a difference 🚀
 </p>
 
-<a href="https://www.linkedin.com/in/ghulam-mushthofa-9a79bb344" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.instagram.com/ghulammush_/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" />
-</a>
-
-</div>
-
----
-
-## 🚀 Tech Stack
-
 <div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Riot%20Games-D32936?style=for-the-badge&amp;logo=riotgames&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Kuro%20Games-111111?style=for-the-badge&amp;logo=gamejolt&amp;logoColor=white" />
-
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=ghulambelajar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </p>
 </div>
 
 ---
 
-## 📊 My GitHub Stats 😎
+### 🌐 Socials:
+<p>
+  <a href="https://www.linkedin.com/in/ghulam-mushthofa" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/ghulammush_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram" />
+  </a>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghulambelajar&show_icons=true&hide_border=true&bg_color=0F1923&title_color=FF4655&text_color=00F0FF&icon_color=FF4655)
+### 💻 Tech Stack:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghulambelajar&layout=compact&hide_border=true&bg_color=0F1923&title_color=FF4655&text_color=00F0FF)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghulambelajar&hide_border=true&background=0F1923&ring=FF4655&fire=FF4655&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=FF4655&sideLabels=FF4655&dates=00F0FF)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![Riot Games](https://img.shields.io/badge/riot%20games-%23D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Kuro Games](https://img.shields.io/badge/Kuro%20Games-%23111111.svg?style=for-the-badge&logo=gamejolt&logoColor=white)
+
+### 📊 GitHub Stats:
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ghulambelajar&theme=dracula&show_icons=true&hide_border=false" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghulambelajar&theme=dracula&layout=compact&langs_count=8&hide_border=false" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghulambelajar&theme=dracula&hide_border=false" alt="GitHub Streak" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+### 🏆 GitHub Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app?username=ghulambelajar&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" alt="Trophy" />
+</p>
 
 ---
 
@@ -55,7 +63,3 @@
 > “That 1% is progress — so don’t get tired of your process!”
 
 </div>
-
----
----
-
