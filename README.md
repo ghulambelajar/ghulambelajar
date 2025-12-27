@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ghulam Mushthofa</h1>
-<p align="center">
-  Welcome to my GitHub profile! I’m an Informatics Engineering student and developer with a passion for crafting impactful web applications using the **PERN Stack**.
-  <br/>
-  I'm always exploring new technologies and building projects that can make a difference 🚀
-</p>
+Welcome to my GitHub profile! I’m an Informatics Engineering student and developer with a passion for crafting impactful web applications using the **PERN Stack**.
+<br/>
+I'm always exploring new technologies and building projects that can make a difference 🚀
 
 <div align="center">
   <p>
